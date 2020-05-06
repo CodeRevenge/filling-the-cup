@@ -3,4 +3,4 @@ Created with CodeSandbox
 
 Very fast CSS project.
 
-[Filling the cup](.doc/cup.gif)
+![Filling the cup](.doc/cup.gif)
